@@ -137,15 +137,20 @@
     - Quero chegar ao final de 2026 contente por perceber como minha saúde mental está melhor, e como minhas emoções estão menos descontroladas; Sabendo que minhas relações em todos os círculos sociais melhoraram, que estou me comunicando um pouco melhor e que estou conseguindo antecipar problemas e mitigá-los ou minimizar seus impactos.
 
 ### Como está o PDI usado em conversas profissionais:
-#### Pilar Referência técnica: Me tornar uma profissional referência em Salesforce Platform / Agentforce / Sales / Service
-- [ ] N3: squad >> Certificação Platform Developer
+#### Pilar Referência técnica: Me tornar uma profissional referência em Salesforce Platform / Agentforce / Sales / Service / Data 360(*)
+- [ ] N3: squad >> Certificação Data Cloud Consultant
 - [ ] N4: gerência tech >> N3 + Certificação Platform Administrator
 - [ ] N5: GP >> N4 + Pós-graduação com TCC de destaque
 
-#### Pilar Referência técnica: Melhorar conhecimento em Data Cloud
+#### Pilar Referência técnica: Melhorar conhecimento em Data Cloud `[meta seria absorvida na M1, sendo o N3 a certificação DC consultant]`
 - [ ] N3: básico >> fixar conhecimento das passagens internas da Rubita
 - [ ] N4: intermediário >> N3 + conseguir auxiliar em análises e outras tarefas
 - [ ] N5: avançado >> N4 + Certificação Data Cloud Consultant
+
+#### (*) Avaliar encaixar como M2: melhorar inglês.
+- [ ] N3: melhoria de vocalulário e conversação
+- [ ] N4: conversação fluida
+- [ ] N5: reuniões em inglês
 
 #### Pilar Disseminação de conhecimento: Estruturar passagens de conhecimento dos meus estudos
 - [ ] N3: postagens constantes Universo Salesforce (interno e externo) - 1x (de cada)/quinzena 
@@ -166,6 +171,7 @@
 
 ![Roda da vida do início R126](https://github.com/millena84/planejamento_pessoal_mfr/blob/main/imgs/wheel-of-life-020126.png)
 
+> ⚠️ CRIAR AGENDA SEMANAL PARA REVISITAR ESSES COMBINADOS
 
 ##### Pilares roda da vida:
 - `Carreira e trabalho` 
@@ -176,15 +182,21 @@
         - [ ] Analytics e inteligência artificial
         - [ ] Processamento de linguagem natural
     - **Agentforce:** 
-        - [ ] Terminar trilha [Agentblazer Innovator](https://trailhead.salesforce.com/content/learn/trails/become-an-agentblazer-innovator)
-        - [ ] Terminar trilha [Agentblazer Legend](https://trailhead.salesforce.com/content/learn/trails/become-an-agentblazer-legend)
+        - [ ] Terminar trilhar [Agentclazer Champion](https://trailhead.salesforce.com/pt-BR/content/learn/trails/become-an-agentblazer-champion-2026)
+        - [ ] Terminar trilha [Agentblazer Innovator](https://trailhead.salesforce.com/pt-BR/content/learn/trails/become-an-agentblazer-innovator-2026)
+        - [ ] Terminar trilha [Agentblazer Legend](https://trailhead.salesforce.com/pt-BR/content/learn/trails/become-an-agentblazer-legend-2026)
+        - [ ] CRIAR CONTEÚDOS DO 'PROGRAMA' 5 DIAS DE AGENTFORCE 🚨🚨🚨🚨
         - [ ] Fazer trailmix [Beyond Agentblazer Trail](https://trailhead.salesforce.com/users/gabrielhlf/trailmixes/beyond-agentblazer-trail)
-        - [ ] Terminar trailmix [Africa Ohana 30 Days Agentforce Challenge](https://trailhead.salesforce.com/users/maxwelltuglo/trailmixes/africa-ohana-30-days-agentforce-challenge)
-        - [ ] Terminar trailmix [agentforce related](https://trailhead.salesforce.com/users/millena/trailmixes/agentforce-related)
+        - [ ] ⬇️Terminar trailmix [Africa Ohana 30 Days Agentforce Challenge](https://trailhead.salesforce.com/users/maxwelltuglo/trailmixes/africa-ohana-30-days-agentforce-challenge)
+        - [ ] ⬇️Terminar trailmix [agentforce related](https://trailhead.salesforce.com/users/millena/trailmixes/agentforce-related)
     - **Salesforce:** 
         - [ ] Terminar trilha [Maintain Your Salesforce Certifications](https://trailhead.salesforce.com/en/content/learn/trails/maintain-your-salesforce-certifications)
-        - [ ] Iniciar trilha de [Desenvolvimento iniciante](https://trailhead.salesforce.com/users/dwo0uwqudph4xcx893/trailmixes/desenvolvimento-iniciante)
-        - Escolher uma das trilhas:
+        - [ ] Trailhead Academy Adm
+            - [ ] REVISÃO COMPLETA (R2)
+        - [ ] Trailhead Academy DC
+            - [ ] REVISÃO COMPLETA
+        - [ ] ⬇️⬇️Iniciar trilha de [Desenvolvimento iniciante](https://trailhead.salesforce.com/users/dwo0uwqudph4xcx893/trailmixes/desenvolvimento-iniciante)
+        - Escolher uma das trilhas ⬇️⬇️:
             - [ ] Trilha de [Desenvolvedor Salesforce - Qualifica SP](https://trailhead.salesforce.com/users/qualifica-sp/trailmixes/desenvolvedor-salesforce-qualifica-sp)
             - [ ] Trilha de [Desenvolvimento](https://trailhead.salesforce.com/users/thalisdenis/trailmixes/desenvolvimento)
             - [ ] Trilha de [Salesforce Mastery: Da Administração ao Desenvolvimento](https://trailhead.salesforce.com/users/raizam/trailmixes/introducao-ao-salesforce)
@@ -195,10 +207,14 @@
 - `Finanças e dinheiro` 
     - **Renda extra - TI**
         - [ ] Estruturar projeto de tutorial/apostila/ebook
-        - [ ] Estruturar projeto de curso para iniciantes
-    - **Renda extra - Vendas (Natura/Boticário/Lápida)**
+              - usar insumos 5 dias agentforce
+        - [ ] Ler os livros basicos de salesforce (Gustavo e o do link do Linkedin)
+            - [ ] Estruturar projeto de curso para iniciantes
+    - **Renda extra - Vendas (Natura/Boticário/Lápida)** ⬇️
         - [ ] Mostrar como funciona para a mamis
         - [ ] Procurar cursos / tutoriais para alimentar perfil instagram e fazer com a mamis
+    - [ ] VERIFICAR O QUE PODE ESTAR DEIXANDO A CONTA DE LUZ TÃO ALTA!
+        - [ ] Criar rotina de economia de energia
 
 - `Saúde e fitness` 
     - **Alongamento quando der**
@@ -206,18 +222,20 @@
         - [ ] Criar rotina de alongamento para a Mamis
     - **Exercício 3x semana**
         - [ ] Revisar rotina de exercícios
-    - **Corrida 1x semana**
+    - ~~**Corrida 1x semana**~~
         - [ ] Corrida de 20 min (5 x 5 x 5 x 5)
-    - **Rotina alimentar flexível**
+      Despriorizado: lesão no joelho
+    - 🚨 **Rotina alimentar flexível**
         - [ ] Criar previsão de rotina alimentar de 1600 cal
     - **Medição corporal**
         - [ ] Comprar peça de medição de gordura corporal
 
 - `Família` 
-    - **Cursos de inglês**
+    - 🚨 **Cursos de inglês**
         - [ ] 2 lições Be confident
         - [ ] 1 conversa via chat
         - [ ] 1 ligação
+      - Criar rotina de aprendizado e de dividir o que foi aprendido
     - **Programas bimestrais**
         - [ ] Pesquisar programas para fazer com a mamis
 
